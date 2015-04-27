@@ -10,5 +10,9 @@
     "tweets"
   ],
   "author": "Payal Patnaik <patnaikpayal@gmail.com>",
-  "license": "BSD3"
+  "license": "BSD3",
+  "dependencies": {
+    "twit": "^1.1.20",
+    "mongodb": "^2.0.28"
+  }
 }
