@@ -1,0 +1,14 @@
+{
+  "name": "baltimoreStream",
+  "version": "0.0.0",
+  "description": "Get stream of tweets from Baltimore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweets"
+  ],
+  "author": "Payal Patnaik <patnaikpayal@gmail.com>",
+  "license": "BSD3"
+}
